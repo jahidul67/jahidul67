@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Jahidul Islam  
-
-🚀 **Machine Learning | AI | Data Science Enthusiast**  
-🔍 Passionate about building intelligent systems, analyzing data, and solving real-world problems using **Python, ML, and Deep Learning**.  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Jahidul+Islam;🚀+Machine+Learning+%7C+AI+%7C+Data+Science;🤖+Deep+Learning+%7C+NLP+%7C+MLOps" alt="Typing SVG" />
+</h1>
 
 ---
 
@@ -23,12 +22,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
-🔹 [**House Price Prediction (ML)**](https://github.com/yourusername/house-price-prediction) – Regression model to predict housing prices  
+🔹 [**Rainfall Prediction (ML)**](https://github.com/yourusername/rainfall-prediction) – Regression model to predict rainfall  
 🔹 [**Sentiment Analysis with BERT (NLP)**](https://github.com/yourusername/sentiment-analysis-bert) – Classifying text sentiments using Transformers  
 🔹 [**Image Classification with CNNs (DL)**](https://github.com/yourusername/image-classification-cnn) – Deep learning project on image datasets  
 🔹 [**EDA on COVID-19 Data**](https://github.com/yourusername/covid19-eda) – Data cleaning, visualization & insights  
@@ -36,15 +34,21 @@
 ---
 
 ## 📈 GitHub Stats
-![Jahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jahidulislam&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidulislam&theme=radical" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidulislam&layout=compact&theme=radical" height="160" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahidul67/)   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jahidulislam006526@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahidulislam006526@gmail.com)  
 
 ---
 
-⭐️ *"Turning data into knowledge, and knowledge into impact."*  
+⭐️ *"Turning data into knowledge, and knowledge into impact."* 
